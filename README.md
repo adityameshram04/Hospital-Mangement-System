@@ -1,4 +1,4 @@
-# Hospital-management-python-
+Hospital Management System
 This hospital management project is made using the tkinter and sqlite in python 
 
 login.py file contains the code for login page ( username and password is there in file itself)
